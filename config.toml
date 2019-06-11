@@ -45,7 +45,7 @@ hasCJKLanguage = true
     identifier = "github"
     # name = "GitHub"
     pre = "<i class='fab fa-github fa-lg'></i>"
-    url = "https://github.com/username"
+    url = "https://github.com/narenaryan"
     weight = 30
 
 [[menu.main]]
@@ -54,3 +54,10 @@ hasCJKLanguage = true
     pre = "<i class='fa fa-envelope fa-lg'></i>"
     url = "mailto:naren.yellavula@gmail.com"
     weight = 40
+
+[[menu.main]]
+    identifier = "linkedin"
+    # name = "LinkedIn"
+    pre = "<i class='fab fa-linkedin fa-lg'></i>"
+    url = "https://www.linkedin.com/in/narenarya/"
+    weight = 50
